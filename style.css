@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    text-align: center;
+    box-shadow: 2px 3px 15px black;
+}
